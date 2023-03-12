@@ -1,0 +1,41 @@
+body {
+background:background#999;
+font-family: arial;
+
+
+}
+
+h1,h2,h3 {
+	color: green;
+}
+
+a{
+	color:blue;
+}
+
+p {
+
+background: #666;
+color:white;
+padding: 100px 50px 75px 75px;
+
+}
+
+.secondary {
+
+background: green;
+color: lightyellow;
+
+}
+
+.primary {
+
+background: blue;
+color: white;
+
+}
+
+#special {
+	background: hotpink;
+	color: navajowhite;
+}
